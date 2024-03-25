@@ -1,4 +1,4 @@
-Temperature conversion between celcius, fahrenheit and kelvin. Requires Go installed on the client.
+Temperature conversion program between celcius, fahrenheit and kelvin, for a command line interface. Requires Go installed on the client.
 
 Use:
 
